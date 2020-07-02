@@ -1,0 +1,23 @@
+newmtl HOS-0xD6A8_64x64_I8
+Kd 1 1 1
+map_Kd null
+illum 2
+map_Kd Texture\\HOS-0xD6A8_64x64_I8.png
+
+newmtl DT-0x51F38_32x64_CI8
+map_Kd null
+illum 2
+map_Kd Texture\\DT-0x51F38_32x64_CI8.png
+
+newmtl DT-0x7330_32x32_CI8
+Kd 1 1 1
+map_Kd null
+illum 2
+map_Kd Texture\\DT-0x7330_32x32_CI8.png
+
+newmtl DT-0x1BBE0_32x64_CI8
+Kd 1 1 1
+map_Kd null
+illum 2
+map_Kd Texture\\DT-0x1BBE0_32x64_CI8.png
+
